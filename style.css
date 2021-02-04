@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(233, 205, 168);
+}
+
+header#encabezado_principal {
+    color: brown;
+    text-align: center;
+}
+
+p.bloque1_enlace {
+    display: inline;
+}
+
+p.bloque1_imagen {
+    display: inline;
+}
