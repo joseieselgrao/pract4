@@ -50,3 +50,16 @@ h1#cafe_h1 {
     text-align: center;
 }
 
+p.cafe_p {
+color: red;
+
+}
+
+h1#contacto_h1 {
+    color: brown;
+    text-align: center;
+}
+
+p.contacto_p {
+    color: blue;
+}
