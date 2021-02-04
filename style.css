@@ -1,0 +1,52 @@
+body {
+    background-color: wheat;
+}
+
+h1#cafeteria_las_horas {
+    color: brown;
+    text-align: center;
+}
+
+img.carta_img {
+    position: static;
+    text-align: left;
+    width: 150px;
+    height: 150px;
+}
+
+img.cafe_img {
+    position: static;
+    text-align: center ;
+    width: 150px;
+    height: 150px;
+}
+
+div.cafe_div {
+    text-align: center;
+}
+
+img.contacto_img {
+    position: static;
+    text-align: right ;
+    width: 150px;
+    height: 150px;
+}
+
+div.contacto_div {
+    text-align: right;
+}
+
+h1#carta_h1 {
+    color: brown;
+    text-align: center;
+}
+
+p.carta_p {
+    color: brown;
+}
+
+h1#cafe_h1 {
+    color: brown;
+    text-align: center;
+}
+
