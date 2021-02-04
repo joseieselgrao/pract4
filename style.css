@@ -7,10 +7,21 @@ header#encabezado_principal {
     text-align: center;
 }
 
-p.bloque1_enlace {
+section.bloque1_enlace {
     display: inline;
 }
 
-p.bloque1_imagen {
+section.bloque1_imagen {
     display: inline;
+    position: relative;
+}
+
+section.bloque2_enlace {
+    display: inline;
+    text-align: center;
+}
+
+section.bloque2_imagen {
+    display: inline;
+    text-align: center;
 }
